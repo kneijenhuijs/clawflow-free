@@ -275,21 +275,6 @@ If not working, check:
 3. Add notes if desired
 4. Review summary in `memory/<date>.md`
 
-### Upgrade to Premium
-
-When you're ready for full automation:
-- Automated morning briefs (9am daily)
-- Automated daily summaries (4pm daily)
-- Weekly planning & reviews
-- Monthly rollups
-- Multi-project support
-- Memory search integration
-- Google Drive backups
-
-[Get Premium Template →](#)
-
----
-
 ## Support
 
 - **Questions:** GitHub Issues

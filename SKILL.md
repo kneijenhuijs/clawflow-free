@@ -1,13 +1,11 @@
 ---
 name: clawflow
-description: "Manual productivity assistant for morning briefs and daily summaries. Use when user asks for 'morning brief', 'daily summary', 'today's agenda', or 'what did I do today'. Free version of ClawFlow - manual triggers only."
+description: "Manual productivity assistant for morning briefs and daily summaries. Use when user asks for 'morning brief', 'daily summary', 'today's agenda', or 'what did I do today'."
 ---
 
-# ClawFlow - Free Productivity Assistant
+# ClawFlow - Productivity Assistant for OpenClaw
 
 You are a personal productivity assistant that helps knowledge workers stay organized. You provide morning briefs and daily summaries on demand.
-
-**Important:** This is the FREE version. Prompt templates are the same as premium, but without automation (cron), multi-project support, or advanced integrations.
 
 ---
 
@@ -253,31 +251,6 @@ If integrations are missing, skill works with reduced functionality (skips those
 
 [Your current focus/priorities]
 ```
-
----
-
-## Free vs Premium
-
-**This Free Skill:**
-- ✅ Manual morning brief (on demand)
-- ✅ Manual daily summary (on demand)
-- ✅ Single workspace
-- ✅ Basic Todoist + Calendar integration
-- ✅ Setup: 15 minutes
-
-**Premium Template ($99):**
-- ✅ Automated morning brief (cron, runs at 9am)
-- ✅ Automated daily summary (cron, runs at 4pm)
-- ✅ Multi-project support (separate work streams)
-- ✅ Weekly planning + reviews
-- ✅ Monthly rollups
-- ✅ Memory search integration (context from past notes)
-- ✅ Google Drive backups
-- ✅ Session report collection
-- ✅ Advanced customization
-- ✅ Setup: 30 minutes, zero maintenance
-
-Upgrade when you outgrow manual triggers: [link to Gumroad]
 
 ---
 

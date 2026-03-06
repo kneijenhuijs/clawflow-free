@@ -1,6 +1,6 @@
-# ClawFlow - Free Productivity Assistant
+# ClawFlow - Productivity Assistant for OpenClaw
 
-**Your personal AI productivity assistant for OpenClaw**
+**Your personal AI productivity assistant**
 
 Get morning briefs and daily summaries on demand. Stay organized without the complexity.
 
@@ -153,28 +153,6 @@ Edit HEARTBEAT.md:
 
 ---
 
-## Free vs Premium
-
-| Feature | Free Skill | Premium Template |
-|---------|-----------|------------------|
-| Morning brief | ✅ Manual | ✅ Automated (9am) |
-| Daily summary | ✅ Manual | ✅ Automated (4pm) |
-| Calendar integration | ✅ Basic | ✅ Advanced |
-| Todoist integration | ✅ Basic | ✅ Advanced filtering |
-| Multi-project support | ❌ | ✅ |
-| Weekly reviews | ❌ | ✅ |
-| Monthly rollups | ❌ | ✅ |
-| Memory search | ❌ | ✅ |
-| Google Drive backup | ❌ | ✅ |
-| Setup time | 15 min | 30 min |
-| Maintenance | Manual | Zero |
-
-**Upgrade when you outgrow manual triggers.**
-
-[Get Premium Template →](#)
-
----
-
 ## Troubleshooting
 
 ### "No calendar events" but I have meetings
@@ -295,21 +273,6 @@ I built ClawFlow because I was drowning in tasks and context switching. Now I st
 ## License
 
 MIT License - Free to use and modify.
-
----
-
-**Ready to upgrade?**
-
-The Premium Template includes:
-- Full automation (zero manual work)
-- Multi-project support
-- Weekly planning & reviews
-- Memory search integration
-- Google Drive backups
-- Lifetime updates
-- Community access
-
-[Get Premium Template for $99 →](#)
 
 ---
 
