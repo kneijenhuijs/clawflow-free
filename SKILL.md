@@ -243,7 +243,7 @@ If integrations are missing, skill works with reduced functionality (skips those
 # USER.md - User Profile
 
 - Name: [Your Name]
-- Language: [English/Dutch/German/etc.]
+- Language: [English or Dutch — other languages best-effort]
 - Timezone: [Your Timezone]
 ```
 
